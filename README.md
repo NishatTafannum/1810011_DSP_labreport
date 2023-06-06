@@ -4,7 +4,7 @@ Course No: ECE 4124
 
 Course Title: Digital Signal Processing Sessional
 
-Experiment No: 05
+Experiment No: 05, 06
 
 
 	
@@ -29,3 +29,5 @@ Department of Electrical & Computer Engineering
 Date of Experiment: 22th May, 2023
 
 Date of Submission: 11th June, 2023
+
+
